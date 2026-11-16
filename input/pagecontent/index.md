@@ -23,6 +23,8 @@ TODO: Ergänzt pro Artefakt einen Satz, wofür es da ist.
 
 Dieses IG baut auf [CH Core 6.0.0](https://fhir.ch/ig/ch-core/6.0.0/) auf.
 
+{% include dependency-table.xhtml %}
+
 ### Autorin oder Autor
 
 Nadine Müller
