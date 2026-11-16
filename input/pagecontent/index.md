@@ -6,19 +6,18 @@
 
 ### Use Case
 
-TODO: Beschreibt in zwei bis drei Sätzen, welche Situation euer IG abbildet.
-Wer erfasst die Daten, wer liest sie, und wofür werden sie gebraucht?
+Dieses IG definiert den Datenaustausch von Arzneimittelallergien von der Hausarztpraxis zur Notfallstation. Somit wird ermöglichst, dass im Notfall alle relevanten Daten zur Verfügung stehen und diese so vollumfänglich wie möglich sind.
 
 ### Scope
 
-TODO: Was deckt dieses IG ab, und was bewusst nicht?
+Dieses IG deckt den Austausch von den relevantesten Werten im Notfall bezüglich Arzneimittelallergien aus. Es ist nicht geeignet als Datenaustausch einer vollumfänglichen Allergiendokumentation zwischen zwei klinischen Systemen.
 
 ### Artefakte
 
 TODO: Ergänzt pro Artefakt einen Satz, wofür es da ist.
 
-* [DG Arzneimittelallergie](StructureDefinition-dg-medication-allergy.html): TODO
-* [Titel eures Beispiels](AllergyIntolerance-TODO_Name.html): TODO
+* [DG Arzneimittelallergie](StructureDefinition-dg-medication-allergy.html): Definiert das Profil fèr den Austausch von Arzneimittelallergien und legt fest, welche Datenfelder und Vorgaben dabei eingehalten werden müssen.
+* [Titel eures Beispiels](AllergyIntolerance-ParacetamolAllergieAnna.html): Zeigt anhand eines konkreten Beispieles, wie eine Arzneimittelallergie gemäss dem definierten Profil erfasst und ausgetauscht wird.
 
 <!-- TODO_Name ist der Name hinter "Instance:" in beispiele.fsh,
      z. B. AllergyIntolerance-PenicillinAllergieAnna.html -->
@@ -29,6 +28,6 @@ Dieses IG baut auf [CH Core 6.0.0](https://fhir.ch/ig/ch-core/6.0.0/) auf.
 
 ### Autorin oder Autor
 
-TODO: Euer Name.
+Nadine Müller
 
 <p style="font-size:smaller">Erstellt im Lab des Moduls Data Standards in Healthcare, ZHAW, HS26. Kein offizieller Standard.</p>
