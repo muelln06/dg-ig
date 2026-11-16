@@ -16,11 +16,8 @@ Dieses IG deckt den Austausch von den relevantesten Werten im Notfall bezüglich
 
 TODO: Ergänzt pro Artefakt einen Satz, wofür es da ist.
 
-* [DG Arzneimittelallergie](StructureDefinition-dg-medication-allergy.html): Definiert das Profil fèr den Austausch von Arzneimittelallergien und legt fest, welche Datenfelder und Vorgaben dabei eingehalten werden müssen.
-* [Titel eures Beispiels](AllergyIntolerance-ParacetamolAllergieAnna.html): Zeigt anhand eines konkreten Beispieles, wie eine Arzneimittelallergie gemäss dem definierten Profil erfasst und ausgetauscht wird.
-
-<!-- TODO_Name ist der Name hinter "Instance:" in beispiele.fsh,
-     z. B. AllergyIntolerance-PenicillinAllergieAnna.html -->
+* [DG Arzneimittelallergie](StructureDefinition-dg-medication-allergy.html): Definiert das Profil für den Austausch von Arzneimittelallergien und legt fest, welche Datenfelder und Vorgaben dabei eingehalten werden müssen.
+* [Paracetamol Allergie Anna](AllergyIntolerance-ParacetamolAllergieAnna.html): Zeigt anhand eines konkreten Beispieles, wie eine Arzneimittelallergie gemäss dem definierten Profil erfasst und ausgetauscht wird.
 
 ### Abhängigkeiten
 
