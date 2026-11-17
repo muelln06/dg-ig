@@ -19,3 +19,6 @@ The html source is not well formed: Found "</div>" expecting "</body>" at line 1
 The HTML fragment 'ip-statements.xhtml' is not included anywhere in the produced implementation guide
 An HTML fragment from the set [cross-version-analysis.xhtml, cross-version-analysis-inline.xhtml] is not included anywhere in the produced implementation guide
 The HTML fragment 'globals-table.xhtml' is not included anywhere in the produced implementation guide
+
+# This warning seems to be inherited from the parent CHCoreAllergyIntolerance. This profile does not intend to further tighten the rules regarding the pattern value.
+The repeating element has a pattern value for a primitive type. The DotNet validator will not apply this to all the repeats - this is an error

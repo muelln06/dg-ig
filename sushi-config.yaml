@@ -41,9 +41,10 @@ jurisdiction: urn:iso:std:iso:3166#CH "Switzerland"
 
 # Euer IG baut auf CH Core auf. CH Term enthält die Schweizer
 # Codelisten (ValueSets), die CH Core verwendet.
+# fhir.ig.ch-term angepasst aufgrund eines Warning (welches ich als legitim angesehen habe, da wir ja die neuste Version wollen
 dependencies:
   ch.fhir.ig.ch-core: 6.0.0
-  ch.fhir.ig.ch-term: 3.3.0
+  ch.fhir.ig.ch-term: 3.4.0
 
 pages:
   index.md:
