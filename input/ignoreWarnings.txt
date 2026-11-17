@@ -22,3 +22,7 @@ The HTML fragment 'globals-table.xhtml' is not included anywhere in the produced
 
 # This warning seems to be inherited from the parent CHCoreAllergyIntolerance. This profile does not intend to further tighten the rules regarding the pattern value.
 The repeating element has a pattern value for a primitive type. The DotNet validator will not apply this to all the repeats - this is an error
+
+# Version 3.3.0 was selected purposefully for this exercise. In the given use case scenario this might be the case when both parties already work with ch-term 3.3.0,
+# and introducing 3.4.0 would cause compatibility issues.
+# TODO: Add exact warning
