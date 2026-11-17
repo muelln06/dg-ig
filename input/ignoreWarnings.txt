@@ -25,7 +25,7 @@ The repeating element has a pattern value for a primitive type. The DotNet valid
 
 # Version 3.3.0 was selected purposefully for this exercise. In the given use case scenario this might be the case when both parties already work with ch-term 3.3.0,
 # and introducing 3.4.0 would cause compatibility issues.
-# TODO: Add exact warning
+The ImplementationGuide uses package ch.fhir.ig.ch-term#3.3.0 released on 2025-12-15, but the most recent appropriate version is 3.4.0. This reference is getting old and the more recent version should be considered
 
 # Explanation for including the following warning into this file:
 # I initially saw a warning saying that it's best to use ch-term 3.4.0. Then I though I'd give it a shot 
